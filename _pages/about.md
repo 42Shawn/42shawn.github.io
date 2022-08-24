@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Chicago, IL 60616. yshang4 AT hawk DOT iit DOT edu.
 
 profile:
   align: right
@@ -16,8 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a second-year Ph.D. student of Computer Science at The Illinois Institute of Technology (IIT), mentored by Prof. [Yan Yan](https://tomyan555.github.io/). My research focuses on **_neural network compression_** and **_multitask learning_**.    
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before IIT, I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. I received my bachelor's degrees in Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University.    
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+_Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._     
+> Motto: Wir müssen wissen, wir werden wissen!    
