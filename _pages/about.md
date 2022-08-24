@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Chicago, IL 60616. yshang4 AT hawk DOT iit DOT edu.
+subtitle: yshang4 AT hawk DOT iit DOT edu.
 
 profile:
   align: right
