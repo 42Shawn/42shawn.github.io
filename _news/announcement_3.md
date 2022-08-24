@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-23 07:59:00-0400
+date: 2022-08
 inline: true
 ---
 
-Second-year Ph.D. student! :sparkles: :smile:
+Second-year Ph.D. student! :smile:
