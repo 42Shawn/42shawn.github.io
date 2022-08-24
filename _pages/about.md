@@ -21,4 +21,4 @@ I am currently a second-year Ph.D. student of Computer Science at The Illinois I
 Before IIT, I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. I received my bachelor's degrees in Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University.    
 
 _Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._     
-> Motto: Wir müssen wissen, wir werden wissen!    
+<!-- > Motto: Wir müssen wissen, wir werden wissen!     -->
