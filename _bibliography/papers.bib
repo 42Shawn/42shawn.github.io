@@ -10,6 +10,7 @@
     year      = {2022},
     code      = {https://github.com/42Shawn/CMIM},
     arxiv     = {2207.02970},
+    abstract  = {Relying on the premise that the performance of a binary neural network can be largely restored with eliminated quantization error between full-precision weight vectors and their corresponding binary vectors, existing works of network binarization frequently adopt the idea of model robustness to reach the aforementioned objective. However, robustness remains to be an ill-defined concept without solid theoretical support. In this work, we introduce the Lipschitz continuity, a well-defined functional property, as the rigorous criteria to define the model robustness for BNN. We then propose to retain the Lipschitz continuity as a regularization term to improve the model robustness. Particularly, while the popular Lipschitz-involved regularization methods often collapse in BNN due to its extreme sparsity, we design the Retention Matrices to approximate spectral norms of the targeted weight matrices, which can be deployed as the approximation for the Lipschitz constant of BNNs without the exact Lipschitz constant computation (NP-hard). Our experiments prove that our BNN-specific regularization method can effectively strengthen the robustness of BNN (testified on ImageNet-C), achieving state-of-the-art performance on CIFAR and ImageNet.}
     selected  = {true}
 }
 
@@ -18,6 +19,7 @@
     author    = {Shang, Yuzhang and Xu, Dan and Duan, Bin and Zong, Ziliang and Nie, Liqiang and Yan, Yan},
     title     = {Lipschitz Continuity Retained Binary Neural Network},
     journal = {European Conference on Computer Vision},
+    abstract = {Relying on the premise that the performance of a binary neural network can be largely restored with eliminated quantization error between full-precision weight vectors and their corresponding binary vectors, existing works of network binarization frequently adopt the idea of model robustness to reach the aforementioned objective. However, robustness remains to be an ill-defined concept without solid theoretical support. In this work, we introduce the Lipschitz continuity, a well-defined functional property, as the rigorous criteria to define the model robustness for BNN. We then propose to retain the Lipschitz continuity as a regularization term to improve the model robustness. Particularly, while the popular Lipschitz-involved regularization methods often collapse in BNN due to its extreme sparsity, we design the Retention Matrices to approximate spectral norms of the targeted weight matrices, which can be deployed as the approximation for the Lipschitz constant of BNNs without the exact Lipschitz constant computation (NP-hard). Our experiments prove that our BNN-specific regularization method can effectively strengthen the robustness of BNN (testified on ImageNet-C), achieving state-of-the-art performance on CIFAR and ImageNet.}
     year      = {2022},
     code      = {https://github.com/42Shawn/LCR_BNN},
     arxiv     = {2207.06540},
@@ -39,6 +41,7 @@
     author    = {Shang, Yuzhang and Duan, Bin and Zong, Ziliang and Nie, Liqiang and Yan, Yan},
     title     = {Lipschitz Continuity Guided Knowledge Distillation},
     journal = {IEEE/CVF International Conference on Computer Vision},
+    abstract = {Knowledge distillation has become one of the most important model compression techniques by distilling knowledge from larger teacher networks to smaller student ones. Although great success has been achieved by prior distillation methods via delicately designing various types of knowledge, they overlook the functional properties of neural networks, which makes the process of applying those techniques to new tasks unreliable and non-trivial. To alleviate such problem, in this paper, we initially leverage Lipschitz continuity to better represent the functional characteristic of neural networks and guide the knowledge distillation process. In particular, we propose a novel Lipschitz Continuity Guided Knowledge Distillation framework to faithfully distill knowledge by minimizing the distance between two neural networks' Lipschitz constants, which enables teacher networks to better regularize student networks and improve the corresponding performance. We derive an explainable approximation algorithm with an explicit theoretical derivation to address the NP-hard problem of calculating the Lipschitz constant. Experimental results have shown that our method outperforms other benchmarks over several knowledge distillation tasks (eg, classification, segmentation and object detection) on CIFAR-100, ImageNet, and PASCAL VOC datasets.}
     year      = {2021},
     code      = {https://github.com/42Shawn/LONDON/tree/master},
     arxiv     = {2108.12905},
