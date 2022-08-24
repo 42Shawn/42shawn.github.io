@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Second-year Ph.D. student</p>
-    <p>in CS at IIT</p>
     <p>Chicago, IL 60616</p>
 
 news: true  # includes a list of news items
