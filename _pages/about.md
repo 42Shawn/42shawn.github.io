@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email: yshang4 [AT] hawk.iit.edu
+subtitle: Email: yshang4 AT hawk.iit.edu
 
 profile:
   align: right
