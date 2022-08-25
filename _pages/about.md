@@ -15,7 +15,7 @@ profile:
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://iitcvmlab.github.io/'>CVM-Lab</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
