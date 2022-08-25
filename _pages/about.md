@@ -22,8 +22,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Computer Science</p>
-    <p>Illinois Institute of Technology</p>
+    <p>Computer Science, IIT</p>
     <p>Chicago, IL 60616</p>
 
 news: true  # includes a list of news items
