@@ -34,7 +34,7 @@ I am currently a second-year Ph.D. student of Computer Science at The Illinois I
 
 Before IIT, I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. I received my bachelor's degrees in Applied Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University.    
 
-I regularly serves as PC member, and reviewer for multiple international conferences and journals such as WSDM, NeuroComputing, TMM, and TKDE.    
+I regularly serve as PC member, and reviewer for multiple international conferences and journals such as WSDM, NeuroComputing, TMM, and TKDE.    
 
 _Besides research, I was a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._     
 <!-- > Motto: Wir müssen wissen, wir werden wissen!     -->
