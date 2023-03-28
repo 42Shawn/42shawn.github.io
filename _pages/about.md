@@ -36,5 +36,7 @@ Before IIT, I received my bachelor's degrees in Applied Mathematics and Economic
 
 I regularly serve as PC member, and reviewer for multiple international conferences and journals such as CVPR, ICCV, ICML, NeurIPS, WSDM, NeuroComputing, Information Sciences, TMM, TCSVT, and TKDE.    
 
+I am open to collaborations on interesting research projects :blush:    
+
 _Besides research, I am a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com.cn/shang)._     
 <!-- > Motto: Wir müssen wissen, wir werden wissen!     -->
