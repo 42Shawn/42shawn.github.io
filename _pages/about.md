@@ -30,7 +30,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 ## BIO
-I am currently a third-year Ph.D. student of Computer Science at the Illinois Institute of Technology (IIT) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/) and an intern research scientist at Cisco Research. My research focuses on **_Efficient/Scalable AI_**, particularly for **Generative Models** and **Large Language Models**. My goal is **MAFA (Make AI Fast Again)**. I am from [Dongying](https://en.wikipedia.org/wiki/Dongying), Shandong Province, China.    
+I am currently a fourth-year Ph.D. student of Computer Science at the Illinois Institute of Technology (IIT) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/) and an intern research scientist at Cisco Research. My research focuses on **_Efficient/Scalable AI_**, particularly for **Generative Models** and **Large Language Models**. My goal is **MAFA (Make AI Fast Again)**. I am from [Dongying](https://en.wikipedia.org/wiki/Dongying), Shandong Province, China.    
 
 Before IIT, I received my bachelor's degrees in Applied Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University. I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. Special thanks to Prof. [Nie](https://liqiangnie.github.io/index.html), who continues to co-mentor me during my Ph.D. pursuit journey.     
 
