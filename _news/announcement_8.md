@@ -4,4 +4,4 @@ date: 2023-08-15 07:59:00-0400
 inline: true
 ---
 
-Fourth-year Ph.D. student! :smile:
+Third-year Ph.D. student! :smile:
