@@ -22,7 +22,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>An explorer from Dongying</p>
+    <p>An explorer from Dongying,</p>
     <p>Shandong Province, China.</p>
 
 news: true  # includes a list of news items
