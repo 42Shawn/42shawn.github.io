@@ -30,9 +30,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 ## BIO
-I am currently a third-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology (IIT) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/). In the meantime, I am a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/) working on efficient large multimodal models. My research focuses on **Efficient/Scalable AI**, particularly for **_Generative Models_** and **_Large Language Models_**.      
+I am currently a third-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology (IIT) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/). My research focuses on **Efficient/Scalable AI**, particularly for **_Generative Models_** and **_Large Language Models_**. In the meantime, I am a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/) working on efficient large multimodal models.      
 
-Before IIT, I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. 
+I am a Research Scientist (Intern) at Google DeepMind, focusing on training inference-efficient large language models. Previously, I interned as a Research Scientist at Cisco Research, where I worked on developing efficient computer vision models and creating the model slimming toolbox for Cisco.     
+
+Before Ph.D., I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. 
 I received my bachelor's degrees in Applied Mathematics and Economics (dual degrees), advised by Prof. [Xiliang Lv](https://scholar.google.com/citations?user=SIJCkXcAAAAJ&hl=en) at Wuhan University.     
 
 I regularly serve as PC member, and reviewer for multiple international conferences and journals such as CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACM-MM, WSDM, NeuroComputing, Information Sciences, CVIU, TMM, TCSVT, and TKDE.    
