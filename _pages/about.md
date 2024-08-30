@@ -30,7 +30,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 ## BIO
-I am currently a third-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology (IIT) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/). My research focuses on **Efficient/Scalable AI**, particularly for **_Generative Models_** and **_Large Language Models_**. In the meantime, I am a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/) working on efficient large multimodal models.      
+I am currently a fourth-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology (IIT) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/). My research focuses on **Efficient/Scalable AI**, particularly for **_Generative Models_** and **_Large Language Models_**. In the meantime, I am a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/) working on efficient large multimodal models.      
 
 I was a Research Scientist (Intern) at Google DeepMind supervised by Daniele Moro and Andrew Howard, researching on training inference-efficient large language models. Additionally, I interned as a Research Scientist at Cisco Research supervised by Gaowen Liu and Ramana Kompella, where I worked on developing efficient computer vision models and creating the model slimming toolbox for Cisco.    
 
