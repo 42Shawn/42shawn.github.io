@@ -39,7 +39,7 @@ I received my bachelor's degrees in Applied Mathematics and Economics (dual degr
 
 I regularly serve as PC member, and reviewer for multiple international conferences and journals such as CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACM-MM, WSDM, NeuroComputing, Information Sciences, CVIU, TMM, TCSVT, and TKDE.    
 
-<span style="color:red"> [I'm on the 24/25 academia job market. Feel free to contact me.] </span>
+<span style="color:red; font-weight:bold;">I'm on the 24/25 academia job market. Feel free to contact me.</span>    
 
 
 _Besides research, I am a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com/p/yuzhangshang)._     
