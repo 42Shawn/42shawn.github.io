@@ -30,7 +30,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 ## BIO
-I am currently a final-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology (IIT) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/). In the meantime, I am a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/). My research focuses on **Efficient/Scalable AI**.       
+I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology (IIT) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/). In the meantime, I am a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/). My research focuses on **Efficient/Scalable AI**.       
 
 I was a Research Scientist (Intern) at Google DeepMind supervised by Daniele Moro and Andrew Howard, working on training inference-efficient large language models. Additionally, I interned as a Research Scientist at Cisco Research supervised by Gaowen Liu and Ramana Kompella, where I developed efficient computer vision models and created the model slimming toolbox for Cisco.    
 
@@ -39,7 +39,7 @@ I received my bachelor's degrees in Applied Mathematics and Economics (dual degr
 
 I regularly serve as PC member, and reviewer for multiple international conferences and journals such as CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACM-MM, WSDM, NeuroComputing, Information Sciences, CVIU, TMM, TCSVT, and TKDE.    
 
-<span style="color:red; font-weight:bold;">[I'm on the 24/25 academia job market. Feel free to contact me.]</span>    
+<span style="color:red; font-weight:bold;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>    
 
 
 _Besides research, I am a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com/p/yuzhangshang)._     
