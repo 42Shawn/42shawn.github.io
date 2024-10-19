@@ -34,7 +34,7 @@ I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute 
 
 <span style="color:red; font-weight:bold; font-size:larger;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>    
 
-My research focuses on **efficient and scalable AI systems**, with specific emphasis on neural network compression, generative model acceleration, efficient large models (visual, language, and multimodal), and fast-training techniques for neural networks.    
+My research focuses on **Efficient and Scalable AI Systems**, with specific emphasis on neural network compression [[LONDON](https://arxiv.org/abs/2108.12905) (ICCV'2021), [CMIM](https://arxiv.org/abs/2207.02970) (ECCV'2022), [LCR-BNN](https://arxiv.org/abs/2207.06540) (ECCV'2022)], generative model acceleration, efficient large models (visual, language, and multimodal), and fast-training techniques for neural networks.    
 
 I was a Research Scientist (Intern) at Google DeepMind supervised by Daniele Moro and Andrew Howard, working on training inference-efficient large language models. Additionally, I interned as a Research Scientist at Cisco Research supervised by Gaowen Liu and Ramana Kompella, where I developed efficient computer vision models and created the model slimming toolbox for Cisco.    
 
