@@ -35,10 +35,10 @@ I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute 
 <span style="color:red; font-weight:bold; font-size:larger;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>    
 
 My research focuses on **Efficient and Scalable AI Systems**, with specific emphasis on 
-- **neural network compression**: [LONDON](https://arxiv.org/abs/2108.12905) (ICCV'2021), [CMIM](https://arxiv.org/abs/2207.02970) (ECCV'2022), [LCR-BNN](https://arxiv.org/abs/2207.06540) (ECCV'2022),[Causal-DFQ](https://arxiv.org/abs/2309.136820) (ICCV'2023), [CL-Calib](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Enhancing_Post-training_Quantization_Calibration_through_Contrastive_Learning_CVPR_2024_paper.pdf) (CVPR'2024)
-- **generative model acceleration**: [PTQ4DM](https://arxiv.org/abs/2211.15736) (CVPR'2023), [QuEST](https://arxiv.org/abs/2402.03666), [PTQ4DiT](https://arxiv.org/abs/2405.16005) (NeurIPS'2024)
-- **efficient (visual, language, and multimodal) large models**:
-- **fast-training techniques for neural networks**: [MIM4DD](https://proceedings.neurips.cc/paper_files/paper/2023/hash/24d36eee157559e0d2549455fba28f6a-Abstract-Conference.html) (NeurIPS'2023), [LTDD](https://arxiv.org/abs/2408.14506), [DQAS](https://arxiv.org/abs/2407.07268) (ECCV'2024).    
+- **Neural Network Compression**: [LONDON](https://arxiv.org/abs/2108.12905) (ICCV'2021), [CMIM](https://arxiv.org/abs/2207.02970) (ECCV'2022), [LCR-BNN](https://arxiv.org/abs/2207.06540) (ECCV'2022),[Causal-DFQ](https://arxiv.org/abs/2309.136820) (ICCV'2023), [CL-Calib](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Enhancing_Post-training_Quantization_Calibration_through_Contrastive_Learning_CVPR_2024_paper.pdf) (CVPR'2024)
+- **Generative Model acceleration**: [PTQ4DM](https://arxiv.org/abs/2211.15736) (CVPR'2023), [QuEST](https://arxiv.org/abs/2402.03666), [PTQ4DiT](https://arxiv.org/abs/2405.16005) (NeurIPS'2024)
+- **Efficient (Visual, Language, and Multimodal) Large Models**: 
+- **Fast Optimization for Neural Networks**: [MIM4DD](https://proceedings.neurips.cc/paper_files/paper/2023/hash/24d36eee157559e0d2549455fba28f6a-Abstract-Conference.html) (NeurIPS'2023), [LTDD](https://arxiv.org/abs/2408.14506), [DQAS](https://arxiv.org/abs/2407.07268) (ECCV'2024).    
 
 I was a Research Scientist (Intern) at Google DeepMind supervised by Daniele Moro and Andrew Howard, working on training inference-efficient large language models. Additionally, I interned as a Research Scientist at Cisco Research supervised by Gaowen Liu and Ramana Kompella, where I developed efficient computer vision models and created the model slimming toolbox for Cisco.    
 
