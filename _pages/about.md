@@ -32,7 +32,7 @@ social: true  # includes social icons at the bottom of the page
 ## BIO
 I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology (IIT) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/). In the meantime, I am a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/).        
 
-<span style="color:red; font-weight:bold; font-size:larger;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>    
+<span style="color:red; font-weight:bold;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>    
 
 My research focuses on **Efficient and Scalable AI Systems**, with specific emphasis on 
 - **Neural Network Compression**: [LONDON](https://arxiv.org/abs/2108.12905) (ICCV'2021), [CMIM](https://arxiv.org/abs/2207.02970) (ECCV'2022), [LCR-BNN](https://arxiv.org/abs/2207.06540) (ECCV'2022),[Causal-DFQ](https://arxiv.org/abs/2309.136820) (ICCV'2023), [CL-Calib](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Enhancing_Post-training_Quantization_Calibration_through_Contrastive_Learning_CVPR_2024_paper.pdf) (CVPR'2024)
