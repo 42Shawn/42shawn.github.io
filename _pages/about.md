@@ -30,7 +30,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 ## BIO
-I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology (IIT) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/). In the meantime, I am a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/).        
+I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology (Illinois Tech) under the supervision of Prof. [Yan Yan](https://tomyan555.github.io/). In the meantime, I am a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/).        
 
 <span style="color:red; font-weight:bold;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>    
 
