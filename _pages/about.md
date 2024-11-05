@@ -6,7 +6,7 @@ subtitle: <span style="color:red; font-weight:bold;">[I'm on the 24/25 academic 
 
 profile:
   align: right
-  image: yuzhang.jpg
+  image: yuzhang.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Department of Computer Science</p>
@@ -19,7 +19,7 @@ subtitle: <span style="color:red; font-weight:bold;">[I'm on the 24/25 academic 
 
 profile:
   align: right
-  image: yuzhang.jpg
+  image: yuzhang.png
   image_circular: false # crops the image to make it circular
   address: >
 
