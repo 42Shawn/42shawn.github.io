@@ -13,7 +13,7 @@ profile:
     <p>Illinois Institute of Technology</p>
     <p>Chicago, IL 60616</p> -->
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <span style="color:red; font-weight:bold;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>
 
