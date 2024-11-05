@@ -21,6 +21,7 @@ profile:
   align: right
   image: yuzhang.png
   image_circular: false # crops the image to make it circular
+  image_size: 600px 
   address: >
 
 news: false  # includes a list of news items
