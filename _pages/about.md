@@ -30,7 +30,7 @@ social: true  # includes social icons at the bottom of the page
 ## BIO
 I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology (Illinois Tech) advised by Prof. [Yan Yan](https://tomyan555.github.io/).     
 
-During my Ph.D. journey, I was a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/). I was a Research Scientist (Intern) at Google DeepMind (Mountain View) with [Daniele Moro](https://scholar.google.com/citations?user=TTkaweMAAAAJ&hl=en) and [Andrew Howard](https://scholar.google.com/citations?user=_9l8vD8AAAAJ&hl=en), working on training inference-efficient large language models. Additionally, I interned as a Research Scientist at Cisco Research with [Gaowen Liu](https://scholar.google.com/citations?user=NIv_aeQAAAAJ&hl=en) and [Ramana Kompella](https://scholar.google.com/citations?user=uf9RZboAAAAJ&hl=en), where I developed efficient CV models and created the model slimming toolbox.             
+During my Ph.D. journey, I was a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/). I was a Research Scientist (Intern) at Google DeepMind (Mountain View) working with [Daniele Moro](https://scholar.google.com/citations?user=TTkaweMAAAAJ&hl=en) and [Andrew Howard](https://scholar.google.com/citations?user=_9l8vD8AAAAJ&hl=en), on training inference-efficient large language models. Additionally, I interned as a Research Scientist at Cisco Research working with [Gaowen Liu](https://scholar.google.com/citations?user=NIv_aeQAAAAJ&hl=en) and [Ramana Kompella](https://scholar.google.com/citations?user=uf9RZboAAAAJ&hl=en), where I developed efficient CV models and created the model slimming toolbox.             
 
 
 My research focuses on **Efficient and Scalable AI Systems**, with specific emphasis on 
@@ -45,5 +45,5 @@ I received my bachelor's degrees in Applied Mathematics and Economics (dual degr
 
 <!-- > I regularly serve as PC member, and reviewer for multiple international conferences and journals such as CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACM-MM, WSDM, NeuroComputing, Information Sciences, CVIU, TMM, TCSVT, and TKDE.       -->
 
-_Besides research, I am a contract photographer for Shutterstock Images and Getty Images, and here is my [portfolio](https://500px.com/p/yuzhangshang)._     
+_Besides research, I am a contract photographer for Shutterstock Images and Getty Images (my [portfolio](https://500px.com/p/yuzhangshang))._     
 <!-- > Motto: Wir müssen wissen, wir werden wissen!     -->
