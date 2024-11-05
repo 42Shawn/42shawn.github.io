@@ -2,7 +2,7 @@
 <!-- layout: about
 title: about
 permalink: /
-subtitle: yshang4 AT hawk.iit.edu
+subtitle: <span style="color:red; font-weight:bold;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>    
 
 profile:
   align: right
@@ -22,8 +22,6 @@ profile:
   image: yuzhang.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Yuzhang is from Dongying,</p>
-    <p>Shandong Province, China.</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -34,7 +32,6 @@ I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute 
 
 During my Ph.D. journey, I was a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/). I was a Research Scientist (Intern) at Google DeepMind (Mountain View) with [Daniele Moro](https://scholar.google.com/citations?user=TTkaweMAAAAJ&hl=en) and [Andrew Howard](https://scholar.google.com/citations?user=_9l8vD8AAAAJ&hl=en), working on training inference-efficient large language models. Additionally, I interned as a Research Scientist at Cisco Research with [Gaowen Liu](https://scholar.google.com/citations?user=NIv_aeQAAAAJ&hl=en) and [Ramana Kompella](https://scholar.google.com/citations?user=uf9RZboAAAAJ&hl=en), where I developed efficient CV models and created the model slimming toolbox.             
 
-<span style="color:red; font-weight:bold;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>    
 
 My research focuses on **Efficient and Scalable AI Systems**, with specific emphasis on 
 - **Neural Network Compression**: [LONDON](https://arxiv.org/abs/2108.12905) (ICCV'2021), [CMIM](https://arxiv.org/abs/2207.02970) (ECCV'2022), [LCR-BNN](https://arxiv.org/abs/2207.06540) (ECCV'2022),[Causal-DFQ](https://arxiv.org/abs/2309.136820) (ICCV'2023), [CL-Calib](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Enhancing_Post-training_Quantization_Calibration_through_Contrastive_Learning_CVPR_2024_paper.pdf) (CVPR'2024)
