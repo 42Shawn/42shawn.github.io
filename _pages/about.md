@@ -26,6 +26,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+news_limit: 5
 ---
 ## BIO
 I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology advised by Prof. [Yan Yan](https://tomyan555.github.io/).     
