@@ -36,13 +36,13 @@ During my Ph.D. journey, I was a visiting student at the University of Wisconsin
 
 ### Research Focus: Efficient and Scalable AI Systems
 - **Visual Generative Model Acceleration**:    
-[PTQ4DM](https://arxiv.org/abs/2211.15736) (CVPR'2023), [QuEST](https://arxiv.org/abs/2402.03666), [DKDM](https://arxiv.org/abs/2409.03550), [PTQ4DiT](https://arxiv.org/abs/2405.16005) (NeurIPS'2024).
+[PTQ4DM (CVPR'2023)](https://arxiv.org/abs/2211.15736), [QuEST](https://arxiv.org/abs/2402.03666), [DKDM](https://arxiv.org/abs/2409.03550), [PTQ4DiT (NeurIPS'2024)](https://arxiv.org/abs/2405.16005).
 - **Efficient (Visual, Language, and Multimodal) Large Models**:    
-[Bi-MTDP](https://arxiv.org/abs/2405.14136) (CVPR'2024), [RPTQ](https://arxiv.org/abs/2304.01089), [ASVD](https://arxiv.org/abs/2312.05821), [PB-LLM](https://arxiv.org/pdf/2310.00034)(ICLR'2024), [LLM-Viewer](https://arxiv.org/abs/2402.16363) (Efficient LLM Survey), [LLaVA-PruMerge](https://arxiv.org/abs/2403.15388), [INTP-Video-LLMs](https://arxiv.org/abs/2409.12963).
+[Bi-MTDP (CVPR'2024)](https://arxiv.org/abs/2405.14136), [RPTQ](https://arxiv.org/abs/2304.01089), [ASVD](https://arxiv.org/abs/2312.05821), [PB-LLM (ICLR'2024)](https://arxiv.org/pdf/2310.00034), [LLM-Viewer (Efficient LLM Survey)](https://arxiv.org/abs/2402.16363), [LLaVA-PruMerge](https://arxiv.org/abs/2403.15388), [INTP-Video-LLMs](https://arxiv.org/abs/2409.12963).
 - **Neural Network Compression**:    
-[LONDON](https://arxiv.org/abs/2108.12905) (ICCV'2021), [CMIM](https://arxiv.org/abs/2207.02970) (ECCV'2022), [LCR-BNN](https://arxiv.org/abs/2207.06540) (ECCV'2022),[Causal-DFQ](https://arxiv.org/abs/2309.136820) (ICCV'2023), [CL-Calib](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Enhancing_Post-training_Quantization_Calibration_through_Contrastive_Learning_CVPR_2024_paper.pdf) (CVPR'2024).
+[LONDON (ICCV'2021)](https://arxiv.org/abs/2108.12905), [CMIM (ECCV'2022)](https://arxiv.org/abs/2207.02970), [LCR-BNN (ECCV'2022)](https://arxiv.org/abs/2207.06540),[Causal-DFQ (ICCV'2023)](https://arxiv.org/abs/2309.136820), [CL-Calib (CVPR'2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Enhancing_Post-training_Quantization_Calibration_through_Contrastive_Learning_CVPR_2024_paper.pdf).
 - **Efficient Training for Neural Networks**:    
-[MIM4DD](https://proceedings.neurips.cc/paper_files/paper/2023/hash/24d36eee157559e0d2549455fba28f6a-Abstract-Conference.html) (NeurIPS'2023), [DQAS](https://arxiv.org/abs/2407.07268) (ECCV'2024), [LTDD](https://arxiv.org/abs/2408.14506), [HEPrune](https://github.com/UCF-Lou-Lab-PET/Private-Data-Prune) (NeurIPS'2024).    
+[MIM4DD (NeurIPS'2023)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/24d36eee157559e0d2549455fba28f6a-Abstract-Conference.html), [DQAS (ECCV'2024](https://arxiv.org/abs/2407.07268)), [LTDD](https://arxiv.org/abs/2408.14506), [HEPrune (NeurIPS'2024)](https://github.com/UCF-Lou-Lab-PET/Private-Data-Prune).    
 
 
 Before Ph.D., I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Dan Xu](https://www.danxurgb.net/), respectively. 
