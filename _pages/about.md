@@ -34,7 +34,7 @@ I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute 
 
 During my Ph.D. journey, I was a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/). I was a Research Scientist Intern at Google DeepMind working with [Daniele Moro](https://scholar.google.com/citations?user=TTkaweMAAAAJ&hl=en) and [Andrew Howard](https://scholar.google.com/citations?user=_9l8vD8AAAAJ&hl=en), on training inference-efficient large language models. Additionally, I interned as a Research Scientist at Cisco Research working with [Gaowen Liu](https://scholar.google.com/citations?user=NIv_aeQAAAAJ&hl=en) and [Ramana Kompella](https://scholar.google.com/citations?user=uf9RZboAAAAJ&hl=en), where I developed efficient CV models and created the model slimming toolbox.             
 
-#### Research Focus: Efficient and Scalable AI Systems
+#### Research Goal: Efficient/Scalable AI Systems
 - **Visual Generative Model Acceleration**:    
 [PTQ4DM (CVPR'2023)](https://arxiv.org/abs/2211.15736), [QuEST](https://arxiv.org/abs/2402.03666), [DKDM](https://arxiv.org/abs/2409.03550), [PTQ4DiT (NeurIPS'2024)](https://arxiv.org/abs/2405.16005).
 - **Efficient (Visual, Language, and Multimodal) Large Models**:    
