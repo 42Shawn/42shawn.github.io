@@ -38,7 +38,7 @@ During my Ph.D. journey, I was a visiting student at the University of Wisconsin
 - **Visual Generative Model Acceleration**:    
 [PTQ4DM (CVPR'2023)](https://arxiv.org/abs/2211.15736), [QuEST](https://arxiv.org/abs/2402.03666), [DKDM](https://arxiv.org/abs/2409.03550), [PTQ4DiT (NeurIPS'2024)](https://arxiv.org/abs/2405.16005).
 - **Efficient (Visual, Language, and Multimodal) Large Models**:    
-[Bi-MTDP (CVPR'2024)](https://arxiv.org/abs/2405.14136), [FBPT (ICRA'2024)]([https://arxiv.org/abs/2405.14136]), [RPTQ](https://arxiv.org/abs/2304.01089), [ASVD](https://arxiv.org/abs/2312.05821), [PB-LLM (ICLR'2024)](https://arxiv.org/pdf/2310.00034), [LLM-Viewer (Efficient LLM Survey)](https://arxiv.org/abs/2402.16363), [LLaVA-PruMerge](https://arxiv.org/abs/2403.15388), [INTP-Video-LLMs](https://arxiv.org/abs/2409.12963).
+[Bi-MTDP (CVPR'2024)](https://arxiv.org/abs/2405.14136), [FBPT (ICRA'2024)](https://arxiv.org/abs/2405.14136), [RPTQ](https://arxiv.org/abs/2304.01089), [ASVD](https://arxiv.org/abs/2312.05821), [PB-LLM (ICLR'2024)](https://arxiv.org/pdf/2310.00034), [LLM-Viewer (Efficient LLM Survey)](https://arxiv.org/abs/2402.16363), [LLaVA-PruMerge](https://arxiv.org/abs/2403.15388), [INTP-Video-LLMs](https://arxiv.org/abs/2409.12963).
 - **Neural Network Compression**:    
 [LONDON (ICCV'2021)](https://arxiv.org/abs/2108.12905), [CMIM (ECCV'2022)](https://arxiv.org/abs/2207.02970), [LCR-BNN (ECCV'2022)](https://arxiv.org/abs/2207.06540),[Causal-DFQ (ICCV'2023)](https://arxiv.org/abs/2309.136820), [CL-Calib (CVPR'2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Enhancing_Post-training_Quantization_Calibration_through_Contrastive_Learning_CVPR_2024_paper.pdf).
 - **Efficient Training for Neural Networks**:    
