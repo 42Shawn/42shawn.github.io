@@ -36,7 +36,7 @@ During my Ph.D. journey, I was a visiting student at the University of Wisconsin
 
 #### Research Goal: Efficient/Scalable AI Systems
 - **Visual Generative Model Acceleration**:    
-[PTQ4DM (CVPR'2023)](https://arxiv.org/abs/2211.15736), [QuEST](https://arxiv.org/abs/2402.03666), [DKDM](https://arxiv.org/abs/2409.03550), [PTQ4DiT (NeurIPS'2024)](https://arxiv.org/abs/2405.16005).
+[PTQ4DM (CVPR'2023)](https://arxiv.org/abs/2211.15736){:style="color: black;"}, [QuEST](https://arxiv.org/abs/2402.03666), [DKDM](https://arxiv.org/abs/2409.03550), [PTQ4DiT (NeurIPS'2024)](https://arxiv.org/abs/2405.16005).
 - **Efficient (Visual, Language, and Multimodal) Large Models**:    
 [Bi-MTDP (CVPR'2024)](https://arxiv.org/abs/2405.14136), [FBPT (ICRA'2024)](https://arxiv.org/abs/2405.14136), [RPTQ](https://arxiv.org/abs/2304.01089), [ASVD](https://arxiv.org/abs/2312.05821), [PB-LLM (ICLR'2024)](https://arxiv.org/pdf/2310.00034), [LLM-Viewer (Efficient LLM Survey)](https://arxiv.org/abs/2402.16363), [LLaVA-PruMerge](https://arxiv.org/abs/2403.15388), [INTP-Video-LLMs](https://arxiv.org/abs/2409.12963).
 - **Neural Network Compression**:    
