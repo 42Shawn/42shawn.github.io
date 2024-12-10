@@ -30,7 +30,7 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 ## About Me
-I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology advised by Prof. [Yan Yan](https://tomyan555.github.io/).     
+I am a final-year Ph.D. candidate in Computer Science at the Illinois Institute of Technology advised by Prof. [Yan Yan](https://tomyan555.github.io/) (now at University of Illinois Chicago).     
 
 During my Ph.D. journey, I was a visiting student at the University of Wisconsin-Madison under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/). I was a Research Scientist Intern at Google DeepMind working with [Daniele Moro](https://scholar.google.com/citations?user=TTkaweMAAAAJ&hl=en) and [Andrew Howard](https://scholar.google.com/citations?user=_9l8vD8AAAAJ&hl=en) (team famous for [MobileNet](https://arxiv.org/abs/1704.04861)), on training inference-efficient large language models. Additionally, I interned as a Research Scientist at Cisco Research working with [Gaowen Liu](https://scholar.google.com/citations?user=NIv_aeQAAAAJ&hl=en) and [Ramana Kompella](https://scholar.google.com/citations?user=uf9RZboAAAAJ&hl=en), where I developed efficient CV models and created the model slimming toolbox.             
 
